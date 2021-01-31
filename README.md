@@ -9,3 +9,6 @@ From there I began my JS file which continues to be difficult for me. The first 
 Once I got all that to work I was able to go through and write my code to retrieve the user's input from the local storage and apply it to the appropriate time block. This is also where JS actually grabs the time and applies it to the update function.
 
 In comparison jQuery is a bit easier to learn and in someways I believe jQuery helped me understand Javascript. I was able to get a better understanding of how we use elements from our html or css files and use them in the JS file. This project boosted my confidence and makes me excited to continue learning.
+
+
+![HW-screenshot](assets/work-day-scheduler.png)
