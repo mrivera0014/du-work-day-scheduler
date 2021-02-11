@@ -12,3 +12,7 @@ In comparison jQuery is a bit easier to learn and in someways I believe jQuery h
 
 
 ![HW-screenshot](assets/work-day-scheduler.png)
+
+https://github.com/mrivera0014/du-work-day-scheduler
+
+https://mrivera0014.github.io/du-work-day-scheduler/
